@@ -8,23 +8,21 @@ _Desarrollo de Aplicaciones Web (1.º DAW)_
 
 Repositorio de trabajo del módulo **Lenguajes de Marcas y Sistemas de Gestión de Información**.
 
-En este repositorio iré guardando los apuntes, ejercicios y prácticas que realice durante el curso.
+> 💡 En este repositorio iré guardando los apuntes, ejercicios y prácticas que realice durante el curso.
 
-> Este repositorio servirá para organizar y guardar el trabajo realizado en el módulo durante el curso 2026-2027.
-
-## Datos interesantes relacionados con la tecnología
-
+## 💻 Datos interesantes relacionados con la tecnología
 Algunos temas relacionados con la tecnología que me interesan son:
 
-- Desarrollo web
-- Diseño de páginas web
-- Programación
-- Bases de datos
+- 🌐 Desarrollo web
+- 🎨 Diseño de páginas web
+- 💻 Programación
+- 🗄️Bases de datos
 
 Me interesa especialmente aprender más sobre **HTML, CSS y JavaScript**, ya que son tecnologías importantes para el desarrollo de páginas web.
 
-## Aprender en el módulo
+<p align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"> </p>
 
+## Aprender en el módulo
 Durante este módulo quiero aprender a crear y organizar documentos utilizando diferentes lenguajes de marcas.
 
 También quiero mejorar mis conocimientos sobre **HTML, XML, CSS y JavaScript**, y aprender a utilizar correctamente herramientas como Git y GitHub.
