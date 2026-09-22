@@ -24,11 +24,11 @@ Repositorio de trabajo del módulo Lenguajes de Marcas de 1.º DAW.
 - **UT11.** JavaScript y manipulación del DOM
 
 ## Organización del repositorio
-Las carpetas de organizarán de la siguiente manera:
-1. <sup>TEMA</sup> hace refencia a las distintas unidades del módulo, acompañándose de un <sup>número</sup>
-2. Dentro de cada <sup>TEMA</sup> habrán dos carpetas llamadas <sup>Apuntes</sup> y <sup>EJERCICIOS</sup>
-3. Donde en cada carpeta <sup>Apuntes</sup> se almacenarán la información que corresponde a ese tema.
-4. Además de los <sup>EJERCICIOS</sup> que sería donde se guardan los ejercicios que se irán haciendo mediante el curso.
+Las carpetas se organizarán de la siguiente manera:
+1. <sup>**TEMA**</sup> hace referencia a las distintas unidades del módulo y estará acompañado de un <sup>**número**</sup> que indicará el tema correspondiente.
+2. Dentro de cada carpeta **TEMA** habrá dos carpetas llamadas <sup>**Apuntes**</sup> y <sup>**EJERCICIOS**</sup>.
+3. En la carpeta <sup>**Apuntes**</sup> se almacenará toda la información correspondiente a ese tema.
+4. En la carpeta <sup>**EJERCICIOS**</sup> se guardarán los ejercicios que se vayan realizando durante el curso.
 
 ```text
 Usuari@/
