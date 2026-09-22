@@ -30,7 +30,15 @@ Las carpetas de organizarán de la siguiente manera:
 3. Donde en cada carpeta <sup>Apuntes</sup> se almacenarán la información que corresponde a ese tema.
 4. Además de los <sup>EJERCICIOS</sup> que sería donde se guardan los ejercicios que se irán haciendo mediante el curso.
 
-
+```text
+Usuari@/
+├── TEMA1/
+│   ├── Apuntes/
+│         └── Readme.md
+│   ├── EJERCICIOS/
+│         └── Readme.md
+└── README.md
+```
 
 ## Herramientas tecnológicas utilizadas
 ## 💼 Technical Skills   
