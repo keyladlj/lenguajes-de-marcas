@@ -1,14 +1,31 @@
-# Lenguaje de Marcas
-### Keyla de León Jacinto
-_Desarrollo de Aplicaciones Web DAW_
+# Lenguajes de Marcas
 
-Repositorio de trabajo del módulo Lenguajes de Marcas de 1.º DAW.
+### Keyla de León Jacinto
+
+_Desarrollo de Aplicaciones Web (1.º DAW)_
+
+Repositorio de trabajo del módulo **Lenguajes de Marcas y Sistemas de Gestión de Información**.
+
+En este repositorio iré guardando los apuntes, ejercicios y prácticas que realice durante el curso.
+
+> Este repositorio servirá para organizar y guardar el trabajo realizado en el módulo durante el curso 2026-2027.
 
 ## Datos interesantes relacionados con la tecnología
 
+Algunos temas relacionados con la tecnología que me interesan son:
+
+- Desarrollo web
+- Diseño de páginas web
+- Programación
+- Bases de datos
+
+Me interesa especialmente aprender más sobre **HTML, CSS y JavaScript**, ya que son tecnologías importantes para el desarrollo de páginas web.
 
 ## Aprender en el módulo
 
+Durante este módulo quiero aprender a crear y organizar documentos utilizando diferentes lenguajes de marcas.
+
+También quiero mejorar mis conocimientos sobre **HTML, XML, CSS y JavaScript**, y aprender a utilizar correctamente herramientas como Git y GitHub.
 
 ## Contenidos principales del módulo
 - **UT1.** Introducción a los lenguajes de marcas
@@ -31,7 +48,7 @@ Las carpetas se organizarán de la siguiente manera:
 4. En la carpeta <sup>**EJERCICIOS**</sup> se guardarán los ejercicios que se vayan realizando durante el curso.
 
 ```text
-Usuari@/
+lenguaje-de-marcas/
 ├── TEMA1/
 │   ├── Apuntes/
 │         └── Readme.md
@@ -52,7 +69,8 @@ Usuari@/
 
 ## Fragmento de código
 ```text
-<h1>Hola, World</h1>
+<h1>Hola, mundo</h1>
+<p>Esta es mi primera página web.</p>
 ```
 
 
