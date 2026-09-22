@@ -16,7 +16,7 @@ Algunos temas relacionados con la tecnología que me interesan son:
 - 🌐 Desarrollo web
 - 🎨 Diseño de páginas web
 - 💻 Programación
-- 🗄️Bases de datos
+- 🗄️ Bases de datos
 
 Me interesa especialmente aprender más sobre **HTML, CSS y JavaScript**, ya que son tecnologías importantes para el desarrollo de páginas web.
 
@@ -47,7 +47,7 @@ Las carpetas se organizarán de la siguiente manera:
 4. En la carpeta <sup>**EJERCICIOS**</sup> se guardarán los ejercicios que se vayan realizando durante el curso.
 
 ```text
-lenguaje-de-marcas/
+lenguajes-de-marcas/
 ├── TEMA1/
 │   ├── Apuntes/
 |   │     └── Readme.md
