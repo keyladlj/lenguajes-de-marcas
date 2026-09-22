@@ -1,6 +1,6 @@
 # 🌐 Lenguajes de Marcas 
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"> </p> 
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5wdHgzbWZvZXN3ZnU4dDlpZDVvZ2IweTZ0dHBiMjBhNnltdXR5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" width="450"> </p> 
 
 ### 👩‍💻 Keyla de León Jacinto 
 
