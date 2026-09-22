@@ -57,21 +57,46 @@ lenguaje-de-marcas/
 ```
 
 ## Herramientas tecnológicas utilizadas
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Herramienta | Utilidad |
+|---|---|
+| ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Crear la estructura de las páginas web. |
+| ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Dar estilo y diseño a las páginas web. |
+| ![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white) | Organizar y almacenar información. |
+| ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) | Almacenar e intercambiar información. |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | Añadir interacción y funcionalidades. |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | Facilitar el diseño de páginas web adaptables. |
+| ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) | Controlar las versiones y los cambios. |
+| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Escribir y editar código. |
 
 ## Fragmento de código
-```text
+```html
 <h1>Hola, mundo</h1>
 <p>Esta es mi primera página web.</p>
 ```
 <p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY3Ym93a3FieHQwczFvc2lkbmgxaGd2ZWlxcjdkZ2cxZmY3aHFwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="350"> </p>
+
+## ✅ Seguimiento del trabajo
+
+- [x] Crear el repositorio de GitHub
+- [x] Crear el archivo `README.md`
+- [x] Añadir la presentación del módulo
+- [x] Añadir los contenidos principales
+- [ ] Completar las prácticas
+- [ ] Añadir los ejercicios de las unidades
+- [ ] Seguir actualizando el repositorio durante el curso
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 🚀 Curso 2026-2027
