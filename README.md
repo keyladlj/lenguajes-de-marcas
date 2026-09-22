@@ -1,6 +1,8 @@
-# Lenguajes de Marcas
+# 🌐 Lenguajes de Marcas 
 
-### Keyla de León Jacinto
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"> </p> 
+
+### 👩‍💻 Keyla de León Jacinto 
 
 _Desarrollo de Aplicaciones Web (1.º DAW)_
 
