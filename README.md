@@ -26,9 +26,10 @@ Repositorio de trabajo del módulo Lenguajes de Marcas de 1.º DAW.
 ## Organización del repositorio
 Las carpetas de organizarán de la siguiente manera:
 1. <sup>TEMA</sup> hace refencia a las distintas unidades del módulo, acompañándose de un <sup>número</sup>
-2. Dentro de cada TEMA habrán dos carpetas llamadas <sup>Apuntes</sup> y <sup>EJERCICIOS</sup>
+2. Dentro de cada <sup>TEMA</sup> habrán dos carpetas llamadas <sup>Apuntes</sup> y <sup>EJERCICIOS</sup>
 3. Donde en cada carpeta <sup>Apuntes</sup> se almacenarán la información que corresponde a ese tema.
 4. Además de los <sup>EJERCICIOS</sup> que sería donde se guardan los ejercicios que se irán haciendo mediante el curso.
+
 
 
 ## Herramientas tecnológicas utilizadas
@@ -43,7 +44,9 @@ Las carpetas de organizarán de la siguiente manera:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## Fragmento de código
-
+```text
+<h1>Hola, World</h1>
+```
 
 
 
