@@ -71,6 +71,6 @@ lenguaje-de-marcas/
 <h1>Hola, mundo</h1>
 <p>Esta es mi primera página web.</p>
 ```
-<p align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"> </p>
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY3Ym93a3FieHQwczFvc2lkbmgxaGd2ZWlxcjdkZ2cxZmY3aHFwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="350"> </p>
 
 
