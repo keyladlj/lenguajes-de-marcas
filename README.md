@@ -72,8 +72,7 @@ lenguaje-de-marcas/
 <p>Esta es mi primera página web.</p>
 ```
 <p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY3Ym93a3FieHQwczFvc2lkbmgxaGd2ZWlxcjdkZ2cxZmY3aHFwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="350"> </p>
-```markdown
----
+
 
 ## 🚀 Curso 2026-2027
 
@@ -91,7 +90,5 @@ Este repositorio irá creciendo a lo largo del curso con los **apuntes, ejercici
   <i>Lenguajes de Marcas · 1.º DAW · Curso 2026-2027</i>
 </p>
 
----
-```
 
 
