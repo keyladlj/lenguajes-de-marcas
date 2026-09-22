@@ -79,7 +79,7 @@ lenguaje-de-marcas/
 Este repositorio irá creciendo a lo largo del curso con los **apuntes, ejercicios y prácticas** realizados en el módulo de Lenguajes de Marcas.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjczM3o3eWpuaWhpYjFzODQxbTZvcm1yejFraHoweG0xc2N6ZXpnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cvVTp5gMTEl8ET247j/giphy.gif" width="250">
 </p>
 
 <p align="center">
