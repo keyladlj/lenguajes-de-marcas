@@ -35,7 +35,7 @@ Usuari@/
 ├── TEMA1/
 │   ├── Apuntes/
 │         └── Readme.md
-│   ├── EJERCICIOS/
+│   └── EJERCICIOS/
 │         └── Readme.md
 └── README.md
 ```
