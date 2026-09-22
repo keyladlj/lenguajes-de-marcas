@@ -76,9 +76,9 @@ lenguaje-de-marcas/
 <p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY3Ym93a3FieHQwczFvc2lkbmgxaGd2ZWlxcjdkZ2cxZmY3aHFwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="350"> </p>
 
 ## 🔗 Enlaces de interés
-- 📘 [Documentación de Markdown de GitHub](https://github.com/fowill84/Tutoriales/blob/main/Gu%C3%ADa%20B%C3%A1sica%20de%20Markdown.md)
-- 🌐 [Documentación de HTML en Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
-- 🎨 [Documentación de CSS en Visual Studio Code](https://code.visualstudio.com/docs/languages/css)
+- 📘 [Guía básica de Markdown de GitHub](https://github.com/fowill84/Tutoriales/blob/main/Gu%C3%ADa%20B%C3%A1sica%20de%20Markdown.md)
+- 🌐 [Guía básica de HTML en Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
+- 🎨 [Guía básica de CSS en Visual Studio Code](https://code.visualstudio.com/docs/languages/css)
 
 
 
