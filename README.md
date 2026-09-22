@@ -22,12 +22,11 @@ Me interesa especialmente aprender más sobre **HTML, CSS y JavaScript**, ya que
 
 <p align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"> </p>
 
-## Aprender en el módulo
-Durante este módulo quiero aprender a crear y organizar documentos utilizando diferentes lenguajes de marcas.
+## 📚 Aprender en el módulo
+Durante este módulo quiero aprender a crear y organizar documentos utilizando diferentes **lenguajes de marcas**. 
+También quiero mejorar mis conocimientos sobre **HTML, XML, CSS y JavaScript**, y aprender a utilizar correctamente herramientas como **Git y GitHub**.
 
-También quiero mejorar mis conocimientos sobre **HTML, XML, CSS y JavaScript**, y aprender a utilizar correctamente herramientas como Git y GitHub.
-
-## Contenidos principales del módulo
+## 📖 Contenidos principales del módulo
 - **UT1.** Introducción a los lenguajes de marcas
 - **UT2.** XML: sintaxis, estructura y espacios de nombres
 - **UT3.** Validación con DTD y XML Schema
@@ -40,7 +39,7 @@ También quiero mejorar mis conocimientos sobre **HTML, XML, CSS y JavaScript**,
 - **UT10.** CSS: presentación y diseño adaptable
 - **UT11.** JavaScript y manipulación del DOM
 
-## Organización del repositorio
+## 📂 Organización del repositorio
 Las carpetas se organizarán de la siguiente manera:
 1. <sup>**TEMA**</sup> hace referencia a las distintas unidades del módulo y estará acompañado de un <sup>**número**</sup> que indicará el tema correspondiente.
 2. Dentro de cada carpeta **TEMA** habrá dos carpetas llamadas <sup>**Apuntes**</sup> y <sup>**EJERCICIOS**</sup>.
@@ -51,7 +50,7 @@ Las carpetas se organizarán de la siguiente manera:
 lenguaje-de-marcas/
 ├── TEMA1/
 │   ├── Apuntes/
-│         └── Readme.md
+|   │     └── Readme.md
 │   └── EJERCICIOS/
 │         └── Readme.md
 └── README.md
@@ -72,6 +71,6 @@ lenguaje-de-marcas/
 <h1>Hola, mundo</h1>
 <p>Esta es mi primera página web.</p>
 ```
-
+<p align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"> </p>
 
 
