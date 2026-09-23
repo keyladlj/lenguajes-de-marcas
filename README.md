@@ -1,4 +1,4 @@
-# 🌐 Lenguajes de Marcas 
+# Lenguajes de Marcas 
 
 <p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5wdHgzbWZvZXN3ZnU4dDlpZDVvZ2IweTZ0dHBiMjBhNnltdXR5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" width="450"> </p> 
 
@@ -13,10 +13,10 @@ Repositorio de trabajo del módulo **Lenguajes de Marcas y Sistemas de Gestión 
 ## 💻 Datos interesantes relacionados con la tecnología
 Algunos temas relacionados con la tecnología que me interesan son:
 
-- 🌐 Desarrollo web
-- 🎨 Diseño de páginas web
-- 💻 Programación
-- 🗄️ Bases de datos
+- Desarrollo web
+- Diseño de páginas web
+- Programación
+- Bases de datos
 
 Me interesa especialmente aprender más sobre **HTML, CSS y JavaScript**, ya que son tecnologías importantes para el desarrollo de páginas web.
 
@@ -76,9 +76,9 @@ lenguajes-de-marcas/
 <p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY3Ym93a3FieHQwczFvc2lkbmgxaGd2ZWlxcjdkZ2cxZmY3aHFwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="350"> </p>
 
 ## 🔗 Enlaces de interés
-- 📘 [Guía básica de Markdown de GitHub](https://github.com/fowill84/Tutoriales/blob/main/Gu%C3%ADa%20B%C3%A1sica%20de%20Markdown.md)
-- 🌐 [Guía básica de HTML en Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
-- 🎨 [Guía básica de CSS en Visual Studio Code](https://code.visualstudio.com/docs/languages/css)
+- [Guía básica de Markdown de GitHub](https://github.com/fowill84/Tutoriales/blob/main/Gu%C3%ADa%20B%C3%A1sica%20de%20Markdown.md)
+- [Guía básica de HTML en Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
+- [Guía básica de CSS en Visual Studio Code](https://code.visualstudio.com/docs/languages/css)
 
 
 
