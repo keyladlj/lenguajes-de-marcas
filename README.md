@@ -76,8 +76,6 @@ lenguajes-de-marcas/
 | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Editar y desarrollar código y documentos. |
 | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) | Gestionar versiones y cambios de los proyectos. |
 
-
-
 ## Fragmento de código
 ```html
 <h1>Hola, mundo</h1>
@@ -91,7 +89,6 @@ lenguajes-de-marcas/
 - [Guía básica de CSS en Visual Studio Code](https://code.visualstudio.com/docs/languages/css)
 
 
-
 ## ✅ Seguimiento del trabajo
 
 - [x] Crear el repositorio de GitHub
@@ -101,16 +98,6 @@ lenguajes-de-marcas/
 - [ ] Completar las prácticas
 - [ ] Añadir los ejercicios de las unidades
 - [ ] Seguir actualizando el repositorio durante el curso
-
-
-
-
-
-
-
-
-
-
 
 ## 🚀 Curso 2026-2027
 
