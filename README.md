@@ -64,12 +64,15 @@ lenguajes-de-marcas/
 | ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Diseñar y adaptar la presentación de las páginas web. |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | Añadir interactividad y funcionalidades dinámicas. |
 | ![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white) | Estructurar, almacenar e intercambiar información. |
-| **DTD / XML Schema (XSD)** | Definir y validar documentos XML. |
-| **XPath** | Consultar y navegar por documentos XML. |
-| **XSLT** | Transformar documentos XML a diferentes formatos. |
-| **XQuery** | Consultar y manipular información XML. |
-| **RSS / Atom** | Sindicar y distribuir contenidos. |
-| **ERP / CRM** | Gestionar información y procesos empresariales. |
+| ![XPath](https://img.shields.io/badge/XPath-%23005A9C.svg?style=for-the-badge&logo=xml&logoColor=white) | Consultar y navegar por documentos XML. |
+| ![XSLT](https://img.shields.io/badge/XSLT-%23005A9C.svg?style=for-the-badge&logo=xml&logoColor=white) | Transformar documentos XML a diferentes formatos. |
+| ![XQuery](https://img.shields.io/badge/XQuery-%23F29111.svg?style=for-the-badge&logo=xml&logoColor=white) | Consultar y manipular información XML. |
+| ![DTD](https://img.shields.io/badge/DTD-%236C757D.svg?style=for-the-badge&logo=xml&logoColor=white) | Definir y validar la estructura de documentos XML. |
+| ![XML Schema](https://img.shields.io/badge/XML%20Schema%20(XSD)-%236C757D.svg?style=for-the-badge&logo=xml&logoColor=white) | Definir y validar documentos XML. |
+| ![RSS](https://img.shields.io/badge/RSS-%23FFA500.svg?style=for-the-badge&logo=rss&logoColor=white) | Sindicar y distribuir contenidos. |
+| ![Atom](https://img.shields.io/badge/Atom-%239E9E9E.svg?style=for-the-badge&logo=feedly&logoColor=white) | Distribuir contenidos mediante sindicación web. |
+| ![ERP](https://img.shields.io/badge/ERP-%234B5563.svg?style=for-the-badge) | Gestionar procesos e información empresarial. |
+| ![CRM](https://img.shields.io/badge/CRM-%234B5563.svg?style=for-the-badge) | Gestionar información y relaciones con clientes. |
 | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Editar y desarrollar código y documentos. |
 | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) | Gestionar versiones y cambios de los proyectos. |
 
