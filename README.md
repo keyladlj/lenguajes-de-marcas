@@ -112,10 +112,6 @@ lenguajes-de-marcas/
 
 
 
-
-
-
-
 ## 🚀 Curso 2026-2027
 
 Este repositorio irá creciendo a lo largo del curso con los **apuntes, ejercicios y prácticas** realizados en el módulo de Lenguajes de Marcas.
