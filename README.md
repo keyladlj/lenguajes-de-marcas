@@ -60,21 +60,31 @@ lenguajes-de-marcas/
 
 | Herramienta | Utilidad |
 |---|---|
-| ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Crear la estructura, semántica y formularios de las páginas web. |
-| ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Aplicar estilos, diseño adaptable, Flexbox y Grid a las páginas web. |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | Añadir interactividad y manipular dinámicamente el DOM. |
-| ![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white) | Estructurar, almacenar e intercambiar información. |
-| ![XPath](https://img.shields.io/badge/XPath-%23005A9C.svg?style=for-the-badge&logo=xml&logoColor=white) | Consultar y navegar por documentos XML. |
-| ![XSLT](https://img.shields.io/badge/XSLT-%23005A9C.svg?style=for-the-badge&logo=xml&logoColor=white) | Transformar documentos XML a diferentes formatos y presentaciones. |
-| ![XQuery](https://img.shields.io/badge/XQuery-%23F29111.svg?style=for-the-badge&logo=xml&logoColor=white) | Consultar y manipular información almacenada en documentos XML. |
-| ![RSS](https://img.shields.io/badge/RSS-%23FFA500.svg?style=for-the-badge&logo=rss&logoColor=white) | Crear y distribuir contenidos mediante canales de sindicación. |
-| ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) | Intercambiar información estructurada entre aplicaciones y servicios. |
 | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Escribir, editar y organizar documentos HTML, CSS, JavaScript y XML. |
-| ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) | Controlar las versiones y gestionar los cambios en los proyectos. |
-| ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white) | Inspeccionar, depurar y comprobar el funcionamiento de páginas web. |
-| **DTD / XML Schema (XSD)** | Definir y validar la estructura de los documentos XML. |
-| **ERP / CRM** | Gestionar, integrar y explotar información de los sistemas empresariales. |
-| **Navegadores web** | Ejecutar, probar y verificar el funcionamiento y la accesibilidad de las aplicaciones web. |
+| ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Crear la estructura, semántica, formularios y contenido de las páginas web. |
+| ![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white) | Estructurar, almacenar e intercambiar información. |
+| **XML Namespaces** | Organizar vocabularios XML y evitar conflictos entre elementos y atributos. |
+| **DTD** | Definir y validar la estructura de documentos XML. |
+| **XML Schema (XSD)** | Definir estructuras XML y realizar validaciones más completas. |
+| **XPath** | Consultar, seleccionar y navegar por los elementos de documentos XML. |
+| **XSLT** | Transformar documentos XML en diferentes formatos y presentaciones. |
+| ![RSS](https://img.shields.io/badge/RSS-%23FFA500.svg?style=for-the-badge&logo=rss&logoColor=white) | Crear y distribuir canales de sindicación de contenidos. |
+| **Atom** | Crear y distribuir contenidos mediante el formato de sindicación Atom. |
+| **XQuery** | Consultar y manipular información almacenada en documentos XML. |
+| ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) | Intercambiar información estructurada entre aplicaciones y sistemas. |
+| **Bases de datos XML** | Almacenar y consultar información estructurada. |
+| **ERP** | Gestionar e integrar procesos e información empresarial. |
+| **CRM** | Gestionar información relacionada con clientes y relaciones comerciales. |
+| **Bases de datos** | Almacenar y gestionar la información utilizada por los sistemas empresariales. |
+| **WAI-ARIA** | Mejorar la accesibilidad de páginas y aplicaciones web. |
+| ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Aplicar estilos y diseñar interfaces web. |
+| **Flexbox** | Crear diseños flexibles y distribuir elementos dentro de las páginas. |
+| **CSS Grid** | Crear estructuras y diseños web mediante cuadrículas. |
+| **Responsive Design** | Adaptar las páginas web a diferentes tamaños de pantalla y dispositivos. |
+| ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white) | Inspeccionar, probar y depurar páginas web, estilos, JavaScript y DOM. |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | Programar la lógica, interacción y funcionalidades de las aplicaciones web. |
+| **DOM** | Seleccionar, crear, modificar y eliminar elementos de las páginas web. |
+| **Navegadores web** | Ejecutar, probar y comprobar el funcionamiento y accesibilidad de las aplicaciones web. |
 
 
 ## Fragmento de código
