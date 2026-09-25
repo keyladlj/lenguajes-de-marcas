@@ -57,15 +57,25 @@ lenguajes-de-marcas/
 ```
 
 ## Herramientas tecnológicas utilizadas
+
 | Herramienta | Utilidad |
 |---|---|
-| ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Crear la estructura de las páginas web. |
-| ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Dar estilo y diseño a las páginas web. |
-| ![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white) | Organizar y almacenar información. |
-| ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) | Almacenar e intercambiar información. |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | Añadir interacción y funcionalidades. |
-| ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) | Controlar las versiones y los cambios. |
-| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Escribir y editar código. |
+| ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Crear la estructura, semántica y formularios de las páginas web. |
+| ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Aplicar estilos, diseño adaptable, Flexbox y Grid a las páginas web. |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | Añadir interactividad y manipular dinámicamente el DOM. |
+| ![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white) | Estructurar, almacenar e intercambiar información. |
+| ![XPath](https://img.shields.io/badge/XPath-%23005A9C.svg?style=for-the-badge&logo=xml&logoColor=white) | Consultar y navegar por documentos XML. |
+| ![XSLT](https://img.shields.io/badge/XSLT-%23005A9C.svg?style=for-the-badge&logo=xml&logoColor=white) | Transformar documentos XML a diferentes formatos y presentaciones. |
+| ![XQuery](https://img.shields.io/badge/XQuery-%23F29111.svg?style=for-the-badge&logo=xml&logoColor=white) | Consultar y manipular información almacenada en documentos XML. |
+| ![RSS](https://img.shields.io/badge/RSS-%23FFA500.svg?style=for-the-badge&logo=rss&logoColor=white) | Crear y distribuir contenidos mediante canales de sindicación. |
+| ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) | Intercambiar información estructurada entre aplicaciones y servicios. |
+| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Escribir, editar y organizar documentos HTML, CSS, JavaScript y XML. |
+| ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) | Controlar las versiones y gestionar los cambios en los proyectos. |
+| ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white) | Inspeccionar, depurar y comprobar el funcionamiento de páginas web. |
+| **DTD / XML Schema (XSD)** | Definir y validar la estructura de los documentos XML. |
+| **ERP / CRM** | Gestionar, integrar y explotar información de los sistemas empresariales. |
+| **Navegadores web** | Ejecutar, probar y verificar el funcionamiento y la accesibilidad de las aplicaciones web. |
+
 
 ## Fragmento de código
 ```html
