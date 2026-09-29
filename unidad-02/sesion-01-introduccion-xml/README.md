@@ -74,7 +74,7 @@ He creado una colección de películas y series utilizando XML.
 
 Incluye títulos, tipos, géneros, actores, directores, años y otros datos.
 
-![Actividad final](img/04-actividad-final.png)
+![Actividad final](img/04-activadad-final.png)
 
 ## 7. Lo aprendido
 
