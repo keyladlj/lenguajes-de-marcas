@@ -10,8 +10,6 @@
 
 He utilizado **Visual Studio Code** y la extensión **XML de Red Hat** para trabajar con archivos XML.
 
-![Extensión XML](img/01-extension-xml.png)
-
 ## 2. ¿Qué es XML?
 
 XML significa **eXtensible Markup Language**. Es un lenguaje que permite **organizar y representar información mediante etiquetas**.
