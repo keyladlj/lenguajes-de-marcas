@@ -1,1 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas-series>
+
+  <!-- Colección de películas y series para practicar XML -->
+
+  <contenido id="P001">
+    <titulo>Harry Potter y la piedra filosofal</titulo>
+    <tipo>Película</tipo>
+    <generos>
+      <genero>Fantasía</genero>
+      <genero>Aventura</genero>
+    </generos>
+    <director>Chris Columbus</director>
+    <reparto>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Emma Watson</actor>
+      <actor>Rupert Grint</actor>
+    </reparto>
+    <año>2001</año>
+    <descripcion>Una historia de magia &amp; aventuras.</descripcion>
+  </contenido>
+
+  <contenido id="P002">
+    <titulo>Stranger Things</titulo>
+    <tipo>Serie</tipo>
+    <generos>
+      <genero>Ciencia ficción</genero>
+      <genero>Misterio</genero>
+    </generos>
+    <creadores>
+      <creador>Matt Duffer</creador>
+      <creador>Ross Duffer</creador>
+    </creadores>
+    <reparto>
+      <actor>Millie Bobby Brown</actor>
+      <actor>Finn Wolfhard</actor>
+      <actor>Winona Ryder</actor>
+    </reparto>
+    <temporadas>5</temporadas>
+  </contenido>
+
+  <contenido id="P003">
+    <titulo>El señor de los anillos: La comunidad del anillo</titulo>
+    <tipo>Película</tipo>
+    <generos>
+      <genero>Fantasía</genero>
+      <genero>Aventura</genero>
+    </generos>
+    <director>Peter Jackson</director>
+    <reparto>
+      <actor>Elijah Wood</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Orlando Bloom</actor>
+    </reparto>
+    <año>2001</año>
+  </contenido>
+
+</peliculas-series>
 

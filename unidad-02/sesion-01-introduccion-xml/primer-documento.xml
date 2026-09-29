@@ -1,1 +1,7 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<videojuego>
+  <titulo>Hollow Knight</titulo>
+  <desarrolladora>Team Cherry</desarrolladora>
+  <genero>Metroidvania</genero>
+  <precio moneda="EUR">14.99</precio>
+</videojuego>

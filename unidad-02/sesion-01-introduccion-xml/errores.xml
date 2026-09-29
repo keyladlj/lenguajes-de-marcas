@@ -1,1 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipo nombre="Vengadores">
+  <heroe id="H01">
+    <alias>Iron Man</alias>
+    <nombre>Tony Stark</nombre>
+    <habilidad>Tecnología &amp; estrategia</habilidad>
+  </heroe>
+  <heroe id="H02">
+    <alias>Capitana Marvel</alias>
+    <nombre>Carol Danvers</nombre>
+  </heroe>
+</equipo>
 

@@ -1,1 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo actualizado="2026-09-29">
+  <videojuego id="V001" disponible="true">
+    <titulo>Hollow Knight</titulo>
+    <desarrolladora>Team Cherry</desarrolladora>
+    <plataformas>
+      <plataforma>PC</plataforma>
+      <plataforma>Switch</plataforma>
+    </plataformas>
+    <precio moneda="EUR">14.99</precio>
+    <descripcion>Juego de aventura y exploración en un mundo subterráneo.</descripcion>
+  </videojuego>
 
+  <videojuego id="V002" disponible="true">
+    <titulo>Celeste</titulo>
+    <desarrolladora>Extremely OK Games</desarrolladora>
+    <plataformas>
+      <plataforma>PC</plataforma>
+      <plataforma>Switch</plataforma>
+    </plataformas>
+    <precio moneda="EUR">19.99</precio>
+  </videojuego>
+
+  <!-- Juego añadido durante la sesión de introducción -->
+  <videojuego id="V003" disponible="true">
+    <titulo>Minecraft</titulo>
+    <desarrolladora>Mojang Studios</desarrolladora>
+    <plataformas>
+      <plataforma>PC</plataforma>
+      <plataforma>PlayStation</plataforma>
+      <plataforma>Xbox</plataforma>
+      <plataforma>Switch</plataforma>
+    </plataformas>
+    <precio moneda="EUR">29.99</precio>
+    <descripcion>Juego de construcción y exploración.</descripcion>
+  </videojuego>
+
+  <videojuego id="V004" disponible="true">
+    <titulo>Stardew Valley</titulo>
+    <desarrolladora>ConcernedApe</desarrolladora>
+    <plataformas>
+      <plataforma>PC</plataforma>
+      <plataforma>Switch</plataforma>
+    </plataformas>
+    <precio moneda="EUR">14.99</precio>
+  </videojuego>
+
+  <videojuego id="V005" disponible="true">
+    <titulo>Undertale</titulo>
+    <desarrolladora>Toby Fox</desarrolladora>
+    <plataformas>
+      <plataforma>PC</plataforma>
+      <plataforma>Switch</plataforma>
+    </plataformas>
+    <precio moneda="EUR">9.99</precio>
+    <descripcion>RPG con diferentes decisiones y personajes.</descripcion>
+  </videojuego>
+
+  <videojuego id="V006" disponible="true">
+    <titulo>Portal 2</titulo>
+    <desarrolladora>Valve</desarrolladora>
+    <plataformas>
+      <plataforma>PC</plataforma>
+      <plataforma>PlayStation</plataforma>
+      <plataforma>Xbox</plataforma>
+    </plataformas>
+    <precio moneda="EUR">9.99</precio>
+  </videojuego>
+
+</catalogo>
