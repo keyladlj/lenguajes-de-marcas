@@ -58,8 +58,6 @@ He utilizado:
 * Descripciones.
 * Comentarios XML.
 
-![Catálogo de videojuegos XML](img/01-extension-xml.png)
-
 ## 5. Laboratorio de errores
 
 He trabajado con un XML que contenía errores y los he corregido.
