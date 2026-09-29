@@ -1,7 +1,9 @@
 # Sesión 1. Introducción práctica a XML
 
 **Módulo:** Lenguajes de Marcas y Sistemas de Gestión de Información
-**Curso:** 1.º DAW · 2026-2027
+
+**Curso:** 1.º DAW
+
 **Alumna:** Keyla de León Jacinto
 
 > Primera actividad práctica de XML realizada durante el módulo.
